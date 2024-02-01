@@ -12,3 +12,4 @@ C:\Users\User\OneDrive\Desktop\dotnet\obj\Debug\net8.0\refint\dotnet.dll
 C:\Users\User\OneDrive\Desktop\dotnet\obj\Debug\net8.0\dotnet.pdb
 C:\Users\User\OneDrive\Desktop\dotnet\obj\Debug\net8.0\dotnet.genruntimeconfig.cache
 C:\Users\User\OneDrive\Desktop\dotnet\obj\Debug\net8.0\ref\dotnet.dll
+C:\Users\User\OneDrive\Desktop\dotnet\obj\Debug\net8.0\dotnet.sourcelink.json
