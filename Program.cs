@@ -1,6 +1,9 @@
-﻿
+﻿int x = 10, y =5;
 
-Console.WriteLine("Hello World");
-Console.WriteLine("What is your name?");
-string name = Console.ReadLine();
-Console.WriteLine("Hello " + name);
+Console.WriteLine("x / y = " + (x/y));
+Console.WriteLine("x + y = " + (x+y));
+Console.WriteLine("x - y = " + (x-y));
+Console.WriteLine("x * y = " + (x*y));
+
+Console.WriteLine(x>y);
+Console.WriteLine(x <= y);
